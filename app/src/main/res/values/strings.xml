@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RollingDog</string>
+    <string name="loadingimg_desc">loadingImg</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_credit">for Sadia and Abeda</string>
+    <string name="loadingtitle">LoadingTitle</string>
+</resources>
