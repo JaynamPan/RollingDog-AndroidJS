@@ -4,7 +4,7 @@ Main game is written in JavaScript and runs in a webview
 # Demo
 ![ScreenShot](./screenshot1.jpg)
 # Run
-API>=29   
+API>=28(Android 9 Pie)   
 There are five buttons: 4 to control movements, another one on the right side of the screen to roll
 # TODO
 The sound effects sometimes don't work well   
