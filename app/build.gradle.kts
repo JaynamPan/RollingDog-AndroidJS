@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.chotix.rollingdog"
-    compileSdk = 33
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.chotix.rollingdog"
-        minSdk = 28
-        targetSdk = 33
+        minSdk = 26
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
