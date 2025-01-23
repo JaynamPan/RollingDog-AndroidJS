@@ -1,4 +1,4 @@
-package com.chotix.rollingdog.common
+package meow.softer.rollingdog.common
 
 import android.view.Window
 import androidx.core.view.WindowCompat

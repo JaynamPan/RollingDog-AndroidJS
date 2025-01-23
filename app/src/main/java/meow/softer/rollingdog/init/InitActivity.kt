@@ -1,14 +1,11 @@
-package com.chotix.rollingdog.init
+package meow.softer.rollingdog.init
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.WindowCompat
-import androidx.core.view.WindowInsetsCompat
-import androidx.core.view.WindowInsetsControllerCompat
-import com.chotix.rollingdog.R
-import com.chotix.rollingdog.common.hideSystemBars
-import com.chotix.rollingdog.ui.GameActivity
+import meow.softer.rollingdog.R
+import meow.softer.rollingdog.common.hideSystemBars
+import meow.softer.rollingdog.ui.GameActivity
 import kotlinx.coroutines.DelicateCoroutinesApi
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope

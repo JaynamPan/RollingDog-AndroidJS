@@ -1,4 +1,4 @@
-package com.chotix.rollingdog
+package meow.softer.rollingdog
 
 import org.junit.Test
 

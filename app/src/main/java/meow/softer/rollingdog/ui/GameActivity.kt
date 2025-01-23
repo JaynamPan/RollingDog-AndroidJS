@@ -1,4 +1,4 @@
-package com.chotix.rollingdog.ui
+package meow.softer.rollingdog.ui
 
 import android.annotation.SuppressLint
 import android.media.MediaPlayer
@@ -7,8 +7,8 @@ import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
-import com.chotix.rollingdog.R
-import com.chotix.rollingdog.common.hideSystemBars
+import meow.softer.rollingdog.R
+import meow.softer.rollingdog.common.hideSystemBars
 
 class GameActivity : AppCompatActivity() {
     private lateinit var webView: WebView
